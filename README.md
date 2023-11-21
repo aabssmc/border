@@ -1,2 +1,2 @@
 # border
-a BorderSMP plugin made for alpha.162 on discord
+a BorderSMP plugin made for alpha.162 on Discord
