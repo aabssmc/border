@@ -1,0 +1,31 @@
+# border plugin for alpha_wolf182 server
+
+# the prefix that will be stated in
+# ex: <red><bold>Border <gray>→
+# mini message supported
+prefix: '<red><bold>Border <gray>→'
+
+# the animal that will be doing the thing
+# ex: WITHER_SKELETON
+# case-sensitive
+border-mob: 'ZOMBIE'
+
+# the size of the border
+# ex: 10
+# no decimals
+border-size: '50'
+
+# whether the mob should glow
+# ex: false
+# is boolean
+mob-glow: true
+
+# what color the mob should glow
+# ex: a
+# letter/number colors
+glow-color: '9'
+
+# the speed of the mob
+# ex: 1.0
+# must be a decimal
+mob-speed: 0.2
